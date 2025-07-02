@@ -25,9 +25,7 @@ This project implements **lane detection** in road driving videos using a **U-Ne
 ## 📁 Files Included
 
 - `lane_detection_unet.py` – Script to load video, apply U-Net model, and save output
-- `lane_segmentation_model.h5` – Pretrained U-Net model weights
 - `input_video.mp4` – Sample road driving video
-- `output_video.mp4` – Output with detected lanes
 - `README.md` – Documentation
 
 ---
